@@ -17,3 +17,9 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+
+
+
+x = x+1
+0 = 1
